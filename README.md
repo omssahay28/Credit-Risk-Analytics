@@ -1,5 +1,5 @@
 # Credit-Risk-Analytics
-Finance-And-Risk-Analytics
+Credit-And-Risk-Analytics
 Problem Statement:
 The wealth management industry has grown significantly, leading to the emergence of portfolio managers who help individuals and businesses make investment decisions. Portfolio managers work with analysts to create suitable investment portfolios. However, they face competition and must use available resources effectively. In a case scenario, you're tasked with providing investment consultation to two investors, Mr. Patrick Jyenger and Mr. Peter Jyenger, based on their unique financial objectives.
 
